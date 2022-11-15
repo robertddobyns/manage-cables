@@ -5,7 +5,7 @@ const Entry = (props) => {
 
   return (
       <div>
-        {props.cableStart} - {props.cableEnd}: {props.cableCount}
+        {props.cableStart} -> {props.cableEnd}: {props.cableCount}
       </div>
   )
 }

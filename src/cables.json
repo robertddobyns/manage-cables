@@ -1,7 +1,67 @@
 [
   {
+    "cableStart": "HDMI",
+    "cableEnd": "HDMI",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "USB",
+    "cableCount": 2
+  },
+  {
+    "cableStart": "Outlet",
+    "cableEnd": "Two-Prong",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "Micro USB",
+    "cableCount": 6
+  },{
+    "cableStart": "Display Port",
+    "cableEnd": "Display Port",
+    "cableCount": 2
+  },
+  {
+    "cableStart": "Display Port",
+    "cableEnd": "USB-C",
+    "cableCount": 1
+  },
+  {
     "cableStart": "USB-C",
-    "cableEnd": "USB-Micro",
-    "cableCount": 5
+    "cableEnd": "USB-C",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "Outlet",
+    "cableEnd": "USB-C",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "Outlet",
+    "cableEnd": "Micro USB",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "USB-C",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "Lightning",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "Card Reader",
+    "cableCount": 1
+  },
+  {
+    "cableStart": "USB",
+    "cableEnd": "Female USB",
+    "cableCount": 1
   }
+
 ]
