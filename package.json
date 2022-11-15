@@ -1,6 +1,6 @@
 {
   "homepage": "https://robertddobyns.github.io/manage-cables",
-  "name",: "manage-cables",
+  "name": "manage-cables",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
